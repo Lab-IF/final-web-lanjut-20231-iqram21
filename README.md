@@ -8,3 +8,9 @@ Buat WebApps yang menggunakan Frontend dan Backend.
 
 Menggunakan minimal 2 Backend, 1 Backend dibuat sendiri, yang lain menggunakan backend public
 
+Cara jalan website
+Di mana ini merupakan web film untuk  tahapnya :
+1. Login terlebih dahulu dengan memasukan user = Iqram dan Password = password
+2. Kemudian jika sudah login kita bisa mengklik logo HOME atau Logo trending
+3. Di mana logo HOME akan menampilkan film pada umumnya
+4. Sementara logo tranding akan menampilkan film yang sedang trending
